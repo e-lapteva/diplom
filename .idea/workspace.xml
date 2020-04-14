@@ -11,12 +11,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0df98387-1c9d-4fd6-9f67-bc96a19b3934" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cinema/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/diplom.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/cinema/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinema/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinema/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinema/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/cinema/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinema/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/cinema/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinema/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinema/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinema/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinema/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinema/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinema/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinema/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinema/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinema/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinema/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinema/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinema/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinema/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cinema/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="SvnConfiguration">
@@ -52,7 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1586872590805</updated>
       <workItem from="1586872591952" duration="1518000" />
-      <workItem from="1586874254698" duration="818000" />
+      <workItem from="1586874254698" duration="5734000" />
+      <workItem from="1586886289965" duration="94000" />
     </task>
     <servers />
   </component>
@@ -79,6 +95,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="710" y="327" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1586872863482" />
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1586886017048">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586886017048" />
+    <state width="1899" height="285" key="GridCell.Tab.0.center" timestamp="1586886017048">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586886017048" />
+    <state width="1899" height="285" key="GridCell.Tab.0.left" timestamp="1586886017048">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586886017048" />
+    <state width="1899" height="285" key="GridCell.Tab.0.right" timestamp="1586886017048">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586886017048" />
     <state x="461" y="170" key="SettingsEditor" timestamp="1586872713809">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
